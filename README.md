@@ -2,4 +2,4 @@
 
 ## The group consists of Ariel, Edsel, Edward, Raffles, Nathan Jason.
 
-Implementing and analyzing the prim and Kruskal algorithm 
+Implementing and analyzing the Prim's and Kruskal's algorithm.
